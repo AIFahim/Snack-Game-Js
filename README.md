@@ -15,6 +15,6 @@ Javascript , HTML | Javascript Phaser
 
 <hr>
 
-## Maintainers and Developers (Team Alachi)
+## Maintainer and Developer
 This repository is owned and maintained by 
  * [Md. Asif Iqbal Fahim](https://github.com/AIFahim)
