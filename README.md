@@ -11,7 +11,7 @@ Javascript , HTML | Javascript Phaser
 
 <hr>
 
-<img src="https://drive.google.com/uc?export=view&id=1XAyxZ5JswAEgF7ySBWejD1MlqNrV7ZRl" width="430" height="250"/>
+<img src="https://drive.google.com/uc?export=view&id=1XAyxZ5JswAEgF7ySBWejD1MlqNrV7ZRl" width="530" height="350"/>
 
 <hr>
 
