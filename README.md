@@ -1,4 +1,4 @@
-# Snack_Game_Js
+# 2D Snack Game
 
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
 [![License Badge](https://img.shields.io/badge/license-MIT-blue)](https://github.com/AIFahim/Snack_Game_Js/blob/master/LICENSE)
